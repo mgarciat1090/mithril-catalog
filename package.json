@@ -1,0 +1,25 @@
+{
+  "name": "mithril-catalog",
+  "version": "1.0.0",
+  "description": "Package for handling product catalogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mgarciat1090/mithril-catalog.git"
+  },
+  "keywords": [
+    "mithril"
+  ],
+  "author": "mgarciat1090",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgarciat1090/mithril-catalog/issues"
+  },
+  "homepage": "https://github.com/mgarciat1090/mithril-catalog#readme",
+  "dependencies": {
+    "mithril": "^2.0.4"
+  }
+}
